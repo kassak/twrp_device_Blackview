@@ -1,0 +1,3 @@
+LOCAL_PATH := device/Blackview/A80PLUS
+
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_A80PLUS.mk
